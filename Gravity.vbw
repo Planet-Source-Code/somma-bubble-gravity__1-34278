@@ -1,0 +1,7 @@
+frmGravity = 44, 44, 581, 488, , 22, 22, 559, 466, C
+clsObject = 66, 66, 603, 510, C
+Geometry = 88, 88, 625, 532, C
+clsMassiveObject = 88, 88, 625, 532, C
+frmSettings = 66, 66, 599, 510, , 198, 198, 731, 642, C
+Variables = 88, 88, 621, 532, C
+SaverStuff = 198, 198, 731, 642, 
